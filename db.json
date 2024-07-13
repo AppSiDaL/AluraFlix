@@ -1,0 +1,148 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "title": "React Native",
+      "description": "React Native: Aprende a crear apps nativas con React",
+      "category": "Front-end",
+      "url": "https://www.youtube.com/watch?v=0DlQvYzrLx8",
+      "img": "https://i.ytimg.com/vi/ur6I5m2nTvk/maxresdefault.jpg",
+      "bg": "https://www.doonamis.com/wp-content/uploads/2022/07/react-native-final.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Node ",
+      "description": "Node.js: Aprende a crear APIs con Node.js",
+      "category": "Back-end",
+      "url": "https://www.youtube.com/watch?v=DiXbJL3iWVs",
+      "img": "https://img.youtube.com/vi/DiXbJL3iWVs/maxresdefault.jpg",
+      "bg": "https://img.youtube.com/vi/DiXbJL3iWVs/maxresdefault.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Astro js",
+      "description": "Astro js: Aprende a crear sitios estáticos con Astro js",
+      "category": "Front-end",
+      "url": "https://www.youtube.com/watch?v=0DlQvYzrLx8",
+      "img": "https://cdn.buttercms.com/xrVbfdR5TBy4iTaY4xl7",
+      "bg": "https://www.doonamis.com/wp-content/uploads/2022/07/react-native-final.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Next.js",
+      "description": "Next.js: Aprende a crear sitios estáticos con Next.js",
+      "category": "Front-end",
+      "url": "https://www.youtube.com/watch?v=Ke90Tje7VS0",
+      "img": "https://www.dongee.com/tutoriales/content/images/2022/12/image-78.png",
+      "bg": "https://img.youtube.com/vi/Ke90Tje7VS0/maxresdefault.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Express",
+      "description": "Express: Aprende a crear APIs con Express",
+      "category": "Back-end",
+      "url": "https://www.youtube.com/watch?v=DiXbJL3iWVs",
+      "img": "https://www.dongee.com/tutoriales/content/images/2023/11/image-59.png",
+      "bg": "https://img.youtube.com/vi/DiXbJL3iWVs/maxresdefault.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Vue.js",
+      "description": "Vue.js: Aprende a crear interfaces web con Vue.js",
+      "category": "Front-end",
+      "url": "https://www.youtube.com/watch?v=0DlQvYzrLx8",
+      "img": "https://d2ms8rpfqc4h24.cloudfront.net/Introduction_to_Vue_JS_959ca27287.jpg",
+      "bg": "https://www.doonamis.com/wp-content/uploads/2022/07/react-native-final.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Angular",
+      "description": "Angular: Aprende a crear interfaces web con Angular",
+      "category": "Front-end",
+      "url": "https://www.youtube.com/watch?v=Ke90Tje7VS0",
+      "img": "https://www.fovtysolutions.com/wp-content/uploads/2022/12/Why-AngularJS-A1.jpg",
+      "bg": "https://img.youtube.com/vi/Ke90Tje7VS0/maxresdefault.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Nest.js",
+      "description": "Nest.js: Aprende a crear APIs con Nest.js",
+      "category": "Back-end",
+      "url": "https://www.youtube.com/watch?v=DiXbJL3iWVs",
+      "img": "https://codigoencasa.com/content/images/2022/05/Captura-de-Pantalla-2022-05-23-a-las-15.58.12.png",
+      "bg": "https://img.youtube.com/vi/DiXbJL3iWVs/maxresdefault.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Svelte",
+      "description": "Svelte: Aprende a crear interfaces web con Svelte",
+      "category": "Front-end",
+      "url": "https://www.youtube.com/watch?v=0DlQvYzrLx8",
+      "img": "https://openexpoeurope.com/wp-content/uploads/2019/09/svelte-logo.jpg",
+      "bg": "https://www.doonamis.com/wp-content/uploads/2022/07/react-native-final.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Emprendimiento",
+      "description": "Emprendimiento: Aprende a emprender con éxito",
+      "category": "Innovación",
+      "url": "https://www.youtube.com/watch?v=Ke90Tje7VS0",
+      "img": "https://alpina.com/media/mageplaza/blog/post/t/i/tipos-de-emprendimiento-que-pueden-impulsar-tu-proyecto.png",
+      "bg": "https://img.youtube.com/vi/Ke90Tje7VS0/maxresdefault.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Finanzas",
+      "description": "Finanzas: Aprende a manejar tus finanzas personales",
+      "category": "Innovación",
+      "url": "https://www.youtube.com/watch?v=DiXbJL3iWVs",
+      "img": "https://spoilerfiscal.mx/wp-content/uploads/2022/11/Aprende-sobre-finanzas-personales.png",
+      "bg": "https://img.youtube.com/vi/DiXbJL3iWVs/maxresdefault.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Marketing",
+      "description": "Marketing: Aprende a hacer marketing digital",
+      "category": "Innovación",
+      "url": "https://www.youtube.com/watch?v=0DlQvYzrLx8",
+      "img": "https://ipmark.com/wp-content/uploads/social-media-g1b9b96b30_1280-800x445.png",
+      "bg": "https://www.doonamis.com/wp-content/uploads/2022/07/react-native-final.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Diseño",
+      "description": "Diseño: Aprende a diseñar interfaces web",
+      "category": "Innovación",
+      "url": "https://www.youtube.com/watch?v=Ke90Tje7VS0",
+      "img": "https://arrobasystem.com/cdn/shop/articles/diseno-web-todo-lo-que-debes-saber_1200x1200.jpg?v=1598655949",
+      "bg": "https://img.youtube.com/vi/Ke90Tje7VS0/maxresdefault.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Python",
+      "description": "Python: Aprende a programar con Python",
+      "category": "Back-end",
+      "url": "https://www.youtube.com/watch?v=DiXbJL3iWVs",
+      "img": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/raspberry-lanza-editor-codigo-aprender-python-lenguaje-ia-3008158.jpg?tf=3840x",
+      "bg": "https://img.youtube.com/vi/DiXbJL3iWVs/maxresdefault.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Java",
+      "description": "Java: Aprende a programar con Java",
+      "category": "Back-end",
+      "url": "https://www.youtube.com/watch?v=0DlQvYzrLx8",
+      "img": "https://appmaster.io/api/_files/hRaLG2N4DVjRZJQzCpN2zJ/download/",
+      "bg": "https://www.doonamis.com/wp-content/uploads/2022/07/react-native-final.jpg"
+    },
+    {
+      "id": "afa0",
+      "title": "Django",
+      "description": "Crear Apps con django",
+      "url": "https://www.codigojs.com/media/thumbs/articles/2020/03/08/1_HVKOLLX7wprRbHTl2IPDcQ.png.1024x768_q90_crop.jpg",
+      "category": "Back-end",
+      "img": "https://www.codigojs.com/media/thumbs/articles/2020/03/08/1_HVKOLLX7wprRbHTl2IPDcQ.png.1024x768_q90_crop.jpg",
+      "bg": "https://www.codigojs.com/media/thumbs/articles/2020/03/08/1_HVKOLLX7wprRbHTl2IPDcQ.png.1024x768_q90_crop.jpg"
+    }
+  ]
+}
